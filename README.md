@@ -1,1 +1,1 @@
-DevOps Lab 01
+[![A workflow for my Hello World App](https://github.com/devByBan/setMethods/actions/workflows/main.yml/badge.svg)](https://github.com/devByBan/setMethods/actions/workflows/main.yml)
