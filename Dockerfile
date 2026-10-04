@@ -1,4 +1,4 @@
-FROM amazoncorretto:21
-COPY ./target/setMethods-1.0-SNAPSHOT.jar /tmp
+FROM eclipse-temurin:21-jdk
+COPY ./target/semApp.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "-jar", "setMethods-1.0-SNAPSHOT.jar"]
+ENTRYPOINT ["java", "-jar", "semApp.jar"]
