@@ -40,7 +40,7 @@
                     <finalName>semApp</finalName>
                     <archive>
                         <manifest>
-                            <mainClass>com.napier.devops.App</mainClass>
+                            <mainClass>com.bridging_java.App</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
